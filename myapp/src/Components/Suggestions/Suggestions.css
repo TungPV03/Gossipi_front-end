@@ -1,0 +1,34 @@
+.suggestion_container{
+    width: 325px;
+    height: 290px;
+    margin-top: 25px;
+
+}
+
+.suggestion_header{
+    font-weight: bold;
+    color: #bebebe;
+
+}
+
+.suggestion_body{
+    width: 256px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.suggestion_friend{
+    display: flex;
+    padding: 5px 0px;
+}
+
+.suggestion_username{
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.suggestion_img{
+    height: 35px;
+    width: 35px;
+}
